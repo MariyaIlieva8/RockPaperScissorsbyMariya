@@ -1,2 +1,2 @@
 # RockPapperScissorsbyM-riya
-Consola game Rock, Papper, Scissors
+Consola game Rock, Paper, Scissors
